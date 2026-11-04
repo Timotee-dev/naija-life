@@ -13,4 +13,3 @@ npm run dev
 **Controls:** WASD or arrows to walk · Shift to run · Space to jump · E to enter, talk or board · P for phone · I for bag · Esc for menu · drag to turn the camera, scroll to zoom. On phones: joystick, plus buttons for action, run and jump.
 
 Read **GUIDE.md** for how everything works and how to add places, food and NPCs.
-"# naija-life" 
